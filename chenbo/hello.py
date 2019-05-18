@@ -1,2 +1,2 @@
 print('hello.')
-print(333)
+print(33)
